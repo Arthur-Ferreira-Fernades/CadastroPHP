@@ -1,0 +1,31 @@
+body {
+    background-color: gray;
+}
+h2, h1 {
+    text-align: center;
+    color: white;
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 18px;
+}
+
+.borda {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 25px;
+    width: 480px;
+    margin: 0px 0px 30px 0px;
+}
+
+.conjunto1,.conjunto2 {
+    width: 1000px
+}
+
+.btn {
+    margin: 0 0 0 450px;
+}
